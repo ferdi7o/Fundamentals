@@ -1,6 +1,3 @@
 command = input()
 
-
-a = [command.split()]
-
-print(a)
+name, surname, famili = comand
